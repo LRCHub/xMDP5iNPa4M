@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Percaya Padaku",
+  "base_artist": "UNGU",
+  "createdAt": "2026-03-01T09:33:19.832328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Percaya Padaku.",
+      "artist": "Ungu",
+      "has_synced": true,
+      "path": "select/01_Percaya_Padaku._Ungu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Percaya Padaku",
+      "artist": "UNGU",
+      "has_synced": true,
+      "path": "select/02_Percaya_Padaku_UNGU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Percaya Padaku",
+      "artist": "UNGU",
+      "has_synced": true,
+      "path": "select/03_Percaya_Padaku_UNGU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Percaya Padaku | www.MusikLo.com",
+      "artist": "Ungu | www.MusikLo.com",
+      "has_synced": true,
+      "path": "select/04_Percaya_Padaku___www.MusikLo.com_Ungu___www.MusikLo.com.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Percaya Padaku",
+      "artist": "Readyover",
+      "has_synced": true,
+      "path": "select/05_Percaya_Padaku_Readyover.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Percaya Padaku",
+      "artist": "Ungu - www.fullalbummp3.net",
+      "has_synced": true,
+      "path": "select/06_Percaya_Padaku_Ungu_-_www.fullalbummp3.net.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Percaya Padaku",
+      "artist": "Ungu",
+      "has_synced": true,
+      "path": "select/07_Percaya_Padaku_Ungu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Percaya Padaku",
+      "artist": "Ungu",
+      "has_synced": false,
+      "path": "select/pl_01_Percaya_Padaku_Ungu.txt"
+    }
+  ]
+}
